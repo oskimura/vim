@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/osamukimura/work/cowboy-heroku-demo/src'
+let g:netrw_dirhist_2='/Users/osamukimura/work/hello_erlang'
+let g:netrw_dirhist_3='/Users/osamukimura/work/hello_erlang/src'
+let g:netrw_dirhist_4='/Users/osamukimura/work/hello_erlang'
+let g:netrw_dirhist_5='/Users/osamukimura/work/hello_erlang/src'
+let g:netrw_dirhist_6='/Users/osamukimura/work/cowboy-heroku-demo/templates'
